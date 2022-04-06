@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "target": "es2019",                          
+    "module": "commonjs",                     
+    "allowJs": true,                       
+    "esModuleInterop": true,            
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,      
+    "skipLibCheck": true,                    
+    "forceConsistentCasingInFileNames": true ,
+    "baseUrl":"./",
+  },
+  "include": ["src/**/*.ts"]
+}
